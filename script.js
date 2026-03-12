@@ -1,11 +1,11 @@
 const messages = [
     "No 😢",
-    "Pookie please...",
-    "Are you sure?",
-    "Pretty please? 🥺",
-    "I'll cry...",
-    "Last chance!",
-    "Fine... 😭"
+    "Ya Eya yahdik...",
+    "Metaakda ?",
+    "Zid khamem 🥺",
+    "Ya benti chbik...",
+    "Zeyda raw!",
+    "Rabi yahdik 😭"
 ];
 
 let messageIndex = 0;
