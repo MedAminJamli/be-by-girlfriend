@@ -1,5 +1,5 @@
 const messages = [
-    "No 😢",
+    "Sure 😢",
     "Ya Eya yahdik...",
     "Metaakda ?",
     "Zid khamem 🥺",
